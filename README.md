@@ -1,2 +1,0 @@
-# python
-some python lesson 
